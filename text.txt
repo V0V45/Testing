@@ -1,1 +1,2 @@
-some kind of a content
+some kind of a new content
+one more line
